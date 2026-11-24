@@ -7,7 +7,7 @@
 *Bridging analytical systems engineering with high-impact visual storytelling.*
 
 <p>
-  <a href="https://linkedin.com/in/davidvilete" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-vilete-434bb6292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:davifonseca.contato@gmail.com">
